@@ -1,3 +1,3 @@
 const subject = "world";
 
-console.log(`Hellow ${subject}`);
+console.log(`Hello ${subject}`);
